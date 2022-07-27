@@ -7,4 +7,4 @@ This script was designed to get available 1G / 10G / 100G etc. interfaces from r
 
 2- SecureCRT - Memory
 
-This script had used for getting CFCARD Memory usages of the Huawei Routers. Script is using SecureCRT Script Runner.
+This script had used for getting CFCARD Memory usages of the Huawei Routers. Script is using SecureCRT Script Runner. 
